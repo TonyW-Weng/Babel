@@ -1,0 +1,1 @@
+#This is a test file for the soon to be made calculations (Contains calculations for all damage done)
